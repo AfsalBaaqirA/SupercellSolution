@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Solution1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.supercell.Main" />
+    <module name="Solution1" />
+    <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Arshad - Afsal\IdeaProjects\Solution1\input\ex1\input1.txt&quot;" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

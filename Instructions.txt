@@ -1,0 +1,8 @@
+Programming Language: Java
+
+Solution1:
+	My solution is a maven project and includes "com.googlecode.json-simple" dependency.
+The program gets input file path from command line argument.
+
+Solution2:
+	I assumed that if reading file(IO) and processing data be executed on two parallel threads will reduce time for waiting IO operations. I used Producer-Consumer approach for this problem. 
